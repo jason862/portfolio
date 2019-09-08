@@ -2,7 +2,11 @@
 
 <html>
   <head>
-    <title> About me: Skeppy </title>
-  </haed>
+    <title> About me: Jason </title>
+  </head>
+ 
+ <body>
+  <h1> Jason's Website </h1>
+ </body>
  
 </html>
