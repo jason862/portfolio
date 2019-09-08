@@ -2,7 +2,7 @@
 
 <html>
   <head>
-    <title> Skeppy: Skeppy </title>
+    <title> About me: Skeppy </title>
   </haed>
  
 </html>
