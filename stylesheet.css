@@ -7,6 +7,7 @@ body {
 
 h1 {
   color: #FF33FF;
+  border: 5px solid blue;
 }
 
 p {
