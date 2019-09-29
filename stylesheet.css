@@ -2,8 +2,8 @@
 
 body {
   font-family: 'Josefin Sans', sans-serif;
-  body { background-color: #FF33FF; }
-  color: #86FF33;
+  body { background-color: #FF33FF; 
+    color: #86FF33; }
 }
 
 h1 {
