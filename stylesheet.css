@@ -43,5 +43,7 @@ p {
   color: #5EEA21;
 }
 
-
-  
+.navbar a.active {
+  background-color: #21EA4C;
+  color: #EA21BD;
+}
