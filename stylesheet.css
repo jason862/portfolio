@@ -22,3 +22,8 @@ p {
 .Apples {
   color: #006779;
 }
+
+.navbar {
+  overflow.hidden;
+  background-color: #3A53C4;
+}
