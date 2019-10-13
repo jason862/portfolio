@@ -27,3 +27,21 @@ p {
   overflow.hidden;
   background-color: #3A53C4;
 }
+
+.navbar a {
+  float:left;
+  display: block;
+  color: ##772F62l;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.navbar a:hover {
+  background-color: ##2146EA;
+  color: #5EEA21;
+}
+
+
+  
